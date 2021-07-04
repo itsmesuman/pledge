@@ -1,0 +1,8 @@
+{
+  "name": "John",
+  "skills": ["JAVA", "JAVASCRIPT", "C"],
+  "cause": "open source",
+  "image": "Avatar3",
+  "github": "https://github.com/itsmesuman"
+
+}
